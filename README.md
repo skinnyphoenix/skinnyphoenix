@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/skinnyphoenix_" target="blank"><img src="https://img.shields.io/twitter/follow/skinnyphoenix_?logo=twitter&style=for-the-badge" alt="skinnyphoenix_" /></a> </p>
 
-- 🔭 I’m currently styuding at **Edgemony 💎**
+- 🔭 I’m currently studying at **Edgemony 💎**
 
 - 🌱 I’m currently learning **Javascript**
 
