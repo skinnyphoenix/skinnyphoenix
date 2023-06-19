@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently studying at: Edgemony 💎<br><br>🌱 I’m currently learning: React<br><br>📫 How to reach me: skinnyphoenix@icloud.com<br><br>⚡ Fun fact: I'm also a music producer
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/skinnyphoenix) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/skinnyphoenix_) 
 
