@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at: Edgemony 💎<br><br>🌱 I’m currently learning: Typescript<br><br>📫 How to reach me: skinnyphoenix@icloud.com<br><br>⚡ Fun fact: I'm also a music producer
+🌱 I’m currently learning: Typescript<br><br>📫 How to reach me: skinnyphoenix@icloud.com<br><br>⚡ Fun fact: I'm also a music producer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/skinnyphoenix) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/skinnyphoenix_) 
